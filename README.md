@@ -1,9 +1,9 @@
 # nFactorial-AI-Cup-AppTrack
 
-## < Damir Shaltayev >
+##  Damir Shaltayev 
 
 
-## < Analytics AI >
+##  Analytics AI 
 
 
 ## Typeform to submit:
